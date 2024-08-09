@@ -1,1 +1,1 @@
-File repository, primarly.
+File repository, primarily.
